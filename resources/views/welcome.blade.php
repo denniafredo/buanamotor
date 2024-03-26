@@ -4,7 +4,7 @@
 <!-- Mirrored from expert-themes.com/html/motor-expert/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 23 Mar 2024 15:10:27 GMT -->
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-    <title>Motor Expert - Auto Repair & Service HTML Template | Home Page One</title>
+    <title>Bearing Distributor Buana Motor Bearing</title>
 
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -21,8 +21,8 @@
     <link id="theme-color-file" href="css/color-themes/default-theme.css" rel="stylesheet">
 
     <!--Favicon-->
-    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
+    <link rel="icon" href="images/logo.png" type="image/x-icon">
 
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -76,15 +76,13 @@
                         <div class="logo"><a href="#"><img src="images/logo.png" width="100px" alt="" title="" style="padding-bottom: 10px;">  Your Trusted Bearing Solution
                             </a></div>
                     </div>
-                    <div class="pull-right upper-right clearfix m-3">
+                    <div class="pull-left upper-right clearfix m-3">
                         <!--Info Box-->
                         <div class="upper-column info-box">
-                            <div class="icon-box"><span class="flaticon-home"></span></div>
+                            <div class="icon-box"><span class="flaticon-location-pin"></span></div>
                             <ul>
-                                <li><strong>Lokasi Kami,</strong></li>
-                                <li>Semarang, Jawa Tengah</li>
+                                <li class="mt-3">Semarang, Jawa Tengah</li>
                             </ul>
-
                         </div>
                         <!--Info Box-->
                         <div class="upper-column info-box">
@@ -97,14 +95,6 @@
                             </ul>
                         </div>
 
-                        <!--Info Box-->
-                        <div class="upper-column info-box">
-                            <div class="icon-box"><span class="flaticon-clock"></span></div>
-                            <ul>
-                                <li><strong>Hari Kerja</strong></li>
-                                <li>Senin - Minggu</li>
-                            </ul>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -281,7 +271,7 @@
                              data-x="['center','center','center','center']"
                              data-y="['middle','middle','middle','middle']"
                              data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                            <h4>2 Produk Utama Kami</h4>
+                            <h4>Bearing Distributor</h4>
                         </div>
 
                         <div class="tp-caption"
@@ -300,7 +290,7 @@
                              data-x="['center','center','center','center']"
                              data-y="['middle','middle','middle','middle']"
                              data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                            <h2>NTN dan KOYO</h2>
+                            <h2>NTN</h2>
                         </div>
 
                         <div class="tp-caption"
@@ -319,7 +309,7 @@
                              data-x="['center','center','center','center']"
                              data-y="['middle','middle','middle','middle']"
                              data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'>
-                            <div class="text">Sedia dalam Partai Besar</div>
+                            <h2>KOYO</h2>
                         </div>
 
                         <div class="tp-caption tp-resizeme"
@@ -432,14 +422,13 @@
                 <!-- Content Column -->
                 <div class="content-column col-lg-6 col-md-12 col-sm-12">
                     <h2>Welcome to Buana Motor</h2>
-                    <h4>Distributor Bearing merk NTN dan KOYO Terbesar Se-Jawa Tengah</h4>
+                    <h4>Kami merupakan Distributor Bearing / Supplier Bearing merk NTN dan KOYO terbesar dan terlengkap se-Indonesia</h4>
                     <div class="primary-text">Menyediakan berbagai jenis Bearing untuk kebutuhan anda</div>
-                    <div class="text">Kami bekerja sama dengan berbagai perusahaan besar di Jawa Tengah</div>
                     <ul class="list-style-one clearfix">
-                        <li>Konsultasi Teknis</li>
-                        <li>Inventarisasi Lengkap</li>
-                        <li>Garansi</li>
-                        <li>Penawaran Khusus</li>
+                        <li>Kualitas Terjamin</li>
+                        <li>Berbagai Seri bearing</li>
+                        <li>Penawaran Grosir</li>
+                        <li>Persediaan Lengkap</li>
                     </ul>
                 </div>
 
@@ -469,19 +458,22 @@
     <section class="feature-section" style="background-image:url(images/background/2.jpg);">
         <div class="auto-container">
             <div class="title-box">
-                <h2>Produk Utama Kami</h2>
+                <h2>Produk Kami</h2>
             </div>
 
             <div class="features-carousel owl-carousel owl-theme">
-                <div class="feature-block" style="display: none">
+                <div class="feature-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <a href="service-detail.html"><img src="images/resource/feature-1.jpg" alt=""></a>
-                            <span class="price">65<sup>$</sup></span>
+                            <a href="#"><img src="images/gallery/logonachi.png" alt=""></a>
                         </div>
-                        <div class="lower-content">
-                            <h3><a href="service-detail.html">Suspension Repair</a></h3>
-                            <a href="service-detail.html" class="read-more"><i class="fa fa-angle-right"></i> Get A Quote</a>
+                    </div>
+                </div>
+
+                <div class="feature-block">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <a href="#"><img src="images/gallery/logotimken.png" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -493,33 +485,13 @@
                     </div>
                 </div>
 
-                <!-- Feature block -->
                 <div class="feature-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <a href="#"><img src="images/icons/koyo.jpg" alt=""></a>
+                            <a href="#"><img src="images/gallery/logokoyo1.png" alt=""></a>
                         </div>
                     </div>
                 </div>
-                <!-- Feature block -->
-
-
-                <!-- Feature block -->
-                <div class="feature-block" style="display: none">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <a href="service-detail.html"><img src="images/resource/feature-2.jpg" alt=""></a>
-                            <span class="price">45<sup>$</sup></span>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="service-detail.html">Engine Overhaul</a></h3>
-                            <a href="service-detail.html" class="read-more"><i class="fa fa-angle-right"></i> Get A Quote</a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Feature block -->
-
             </div>
         </div>
     </section>
@@ -538,8 +510,8 @@
                 <!--Filter-->
                 <div class="filters text-center clearfix">
                     <ul class="filter-tabs filter-btns clearfix">
-                        <li class="active filter" data-role="button" data-filter="all">View All</li>
-                        <li class="filter" data-role="button" data-filter=".ball">Ball</li>
+                        <li class="filter" data-role="button" data-filter="all">View All</li>
+                        <li class="filter active" data-role="button" data-filter=".ball">Ball</li>
                         <li class="filter" data-role="button" data-filter=".tapered">Tapered</li>
                         <li class="filter" data-role="button" data-filter=".cylindrical">Cylindrical</li>
                         <li class="filter" data-role="button" data-filter=".self-aligning">Self Aligning</li>
@@ -552,15 +524,16 @@
                     <!-- Project item -->
                     <div class="gallery-item mix all ball col-lg-4 col-md-6 col-sm-12">
                         <div class="image-box">
-                            <figure class="image"><img src="images/gallery/ballbearing.jpg" alt=""></figure>
+                            <figure class="image"><img src="images/gallery/ball1.jpg" alt=""></figure>
                             <div class="overlay-box">
                                 <div class="icon-box">
-                                    <a href="images/gallery/ballbearing.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <a href="images/gallery/ball1.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
                                     <h3><a href="#">Ball Bearing</a></h3>
                                 </div>
                             </div>
                         </div>
                     </div>
+
 
                     <!-- Project item -->
                     <div class="gallery-item mix all tapered col-lg-4 col-md-6 col-sm-12">
@@ -617,11 +590,144 @@
                     <!-- Project item -->
                     <div class="gallery-item mix all thrust col-lg-4 col-md-6 col-sm-12">
                         <div class="image-box">
-                            <figure class="image"><img src="images/gallery/thrustbearing.jpeg" alt=""></figure>
+                            <figure class="image"><img src="images/gallery/thrust1.jpeg" alt=""></figure>
                             <div class="overlay-box">
                                 <div class="icon-box">
-                                    <a href="images/gallery/thrustbearing.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <a href="images/gallery/thrust1.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
                                     <h3><a href="#">Thrust Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="gallery-item mix all ball col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/ball2.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/ball2.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Ball Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all ball col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/ball3.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/ball3.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Ball Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all tapered col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/tapered2.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/tapered2.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Tapered Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all tapered col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/tapered3.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/tapered3.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Tapered Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all cylindrical col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/cylindrical2.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/cylindrical2.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Cylindrical Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all cylindrical col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/cylindrical3.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/cylindrical3.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Cylindrical Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all thrust col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/thrust2.png" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/thrust2.png" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Thrust Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all thrust col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/thrust3.webp" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/thrust3.webp" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Thrust Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all self-aligning col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/self2.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/self2.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Self Aligning Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all self-aligning col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/self3.webp" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/self3.webp" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Self Aligning Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all spherical-roller col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/spherical2.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/spherical2.jpg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Spherical Roller Bearing</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gallery-item mix all spherical-roller col-lg-4 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/spherical3.jpeg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="icon-box">
+                                    <a href="images/gallery/spherical3.jpeg" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-expand-arrows-alt"></span></a>
+                                    <h3><a href="#">Spherical Roller Bearing</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -663,7 +769,7 @@
                     <div class="footer-column col-lg-3 col-md-6 col-sm-12">
                         <div class="footer-widget about-widget">
                             <div class="footer-logo">
-                                <figure>
+                                <figure class="bg-white rounded-circle p-1">
                                     <a href="index.html"><img src="images/logo.png" alt=""></a>
                                 </figure>
                             </div>
@@ -681,33 +787,35 @@
                                 <ul class="services-list">
                                     <li><a href="#">NTN</a></li>
                                     <li><a href="#">KOYO</a></li>
+                                    <li><a href="#">NACHI</a></li>
+                                    <li><a href="#">TIMKEN</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <!--Footer Column-->
-                    <div class="footer-column col-lg-3 col-md-6 col-sm-12">
-                        <!--Footer Column-->
-                        <div class="footer-widget gallery-widget">
-                            <h2 class="widget-title">Instragram</h2>
-                            <!--Footer Column-->
-                            <div class="widget-content">
-                                <div class="outer clearfix">
-                                    <figure class="image">
-                                        <a href="https://www.instagram.com/p/Cz9DDaDv2Ej/" class="lightbox-image" title="IG 1"><img src="images/ig1.png" alt=""></a>
-                                    </figure>
+{{--                    <!--Footer Column-->--}}
+{{--                    <div class="footer-column col-lg-3 col-md-6 col-sm-12">--}}
+{{--                        <!--Footer Column-->--}}
+{{--                        <div class="footer-widget gallery-widget">--}}
+{{--                            <h2 class="widget-title">Instragram</h2>--}}
+{{--                            <!--Footer Column-->--}}
+{{--                            <div class="widget-content">--}}
+{{--                                <div class="outer clearfix">--}}
+{{--                                    <figure class="image">--}}
+{{--                                        <a href="https://www.instagram.com/p/Cz9DDaDv2Ej/" class="lightbox-image" title="IG 1"><img src="images/ig1.png" alt=""></a>--}}
+{{--                                    </figure>--}}
 
-                                    <figure class="image">
-                                        <a href="https://www.instagram.com/p/Cz9Cy_fv8sl/" class="lightbox-image" title="IG 2"><img src="images/ig2.png" alt=""></a>
-                                    </figure>
+{{--                                    <figure class="image">--}}
+{{--                                        <a href="https://www.instagram.com/p/Cz9Cy_fv8sl/" class="lightbox-image" title="IG 2"><img src="images/ig2.png" alt=""></a>--}}
+{{--                                    </figure>--}}
 
-                                    <figure class="image">
-                                        <a href="https://www.instagram.com/p/Cz9CmdXvmfD/" class="lightbox-image" title="IG 3"><img src="images/ig3.png" alt=""></a>
-                                    </figure>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                                    <figure class="image">--}}
+{{--                                        <a href="https://www.instagram.com/p/Cz9CmdXvmfD/" class="lightbox-image" title="IG 3"><img src="images/ig3.png" alt=""></a>--}}
+{{--                                    </figure>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                 </div>
             </div>
         </div>
@@ -716,7 +824,7 @@
         <div class="footer-bottom">
             <div class="auto-container">
                 <div class="copyright-text">
-                    <p>Copyrights © 2023 All Rights Reserved. by <a href="#"> Expert Themes</a></p>
+                    <p>Copyrights © 2024. Denni Afredo</p>
                 </div>
             </div>
         </div>
@@ -755,7 +863,7 @@
 <script src="js/mixitup.js"></script>
 <script src="js/validate.js"></script>
 <script src="js/script.js"></script>
-<!--Google Map APi Key-->
+<!--Google Map APi Key--
 <script src="https://maps.google.com/maps/api/js?key=AIzaSyAOvgMzMavm0loFdwqNrzzVh42X_-lDZ3w"></script>
 <script src="js/map-script.js"></script>
 <!--End Google Map APi-->
