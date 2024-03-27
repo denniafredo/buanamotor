@@ -511,12 +511,12 @@
                 <div class="filters text-center clearfix">
                     <ul class="filter-tabs filter-btns clearfix">
                         <li class="filter" data-role="button" data-filter="all">View All</li>
-                        <li class="filter active" data-role="button" data-filter=".ball">Ball</li>
-                        <li class="filter" data-role="button" data-filter=".tapered">Tapered</li>
-                        <li class="filter" data-role="button" data-filter=".cylindrical">Cylindrical</li>
+                        <li class="filter active" data-role="button" data-filter=".ball" id="ball">BALL BEARING</li>
+                        <li class="filter" data-role="button" data-filter=".tapered">TAPERED ROLLER</li>
+                        <li class="filter" data-role="button" data-filter=".cylindrical">CYLINDRICAL ROLLER</li>
+                        <li class="filter" data-role="button" data-filter=".thrust">THRUST BEARING</li>
                         <li class="filter" data-role="button" data-filter=".self-aligning">Self Aligning</li>
-                        <li class="filter" data-role="button" data-filter=".spherical-roller">Spherical Roller</li>
-                        <li class="filter" data-role="button" data-filter=".thrust">Thrust</li>
+                        <li class="filter" data-role="button" data-filter=".spherical-roller">Spherical</li>
                     </ul>
                 </div>
 
@@ -769,8 +769,8 @@
                     <div class="footer-column col-lg-3 col-md-6 col-sm-12">
                         <div class="footer-widget about-widget">
                             <div class="footer-logo">
-                                <figure class="bg-white rounded-circle p-1">
-                                    <a href="index.html"><img src="images/logo.png" alt=""></a>
+                                <figure class="" >
+                                    <a href="#"><img src="images/logo-white.png" alt=""></a>
                                 </figure>
                             </div>
                             <div class="widget-content">
@@ -824,7 +824,7 @@
         <div class="footer-bottom">
             <div class="auto-container">
                 <div class="copyright-text">
-                    <p>Copyrights © 2024. Denni Afredo</p>
+                    <p>Copyrights © 2024.</p>
                 </div>
             </div>
         </div>
@@ -868,6 +868,15 @@
 <script src="js/map-script.js"></script>
 <!--End Google Map APi-->
 <script src="js/color-settings.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Simulate a click event on the element with the ID "ball"
+        var ballFilter = document.getElementById("ball");
+        if (ballFilter) {
+            ballFilter.click();
+        }
+    });
+</script>
 </body>
 
 <!-- Mirrored from expert-themes.com/html/motor-expert/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 23 Mar 2024 15:10:54 GMT -->
